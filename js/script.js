@@ -16,3 +16,6 @@ let personalMovieDB = {
 personalMovieDB.movies[lastFilm] = ratingFilm;
 
 console.log(personalMovieDB);
+
+
+//for test
